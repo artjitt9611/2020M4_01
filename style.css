@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color:darkblue;
+}
+h2 {
+    text-align: left;
+    font-size: 28px;
+    font-weight: bold;
+    color:darkblue;
+}
+
+h3 {
+    text-align: left;
+    font-size: 24px;
+    font-weight: bold;
+    color:darkblue;
+}
+
+
+.Background_general{
+    background-color: lightsalmon;
+}
+
+h1,h2,h3{
+    color: lightyellow;
+}
+
+body{
+    background-color: #B8775D;
+}
+.Background_specific{
+    background-color: lightsalmon;
+}
+
+
+
+.passed {
+    background-color: #B8775D;
+}
+.studying{
+    background-color: lemonchiffon;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+  }
